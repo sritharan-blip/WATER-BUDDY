@@ -1,0 +1,15 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local application data
+water_buddy_data.json
+.streamlit/secrets.toml
+
+# IDE and OS files
+.vscode/*.log
+.DS_Store
+Thumbs.db
