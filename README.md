@@ -178,7 +178,7 @@ Use **Settings → Data & Backup** to export or import your data as JSON.
 
 ## Themes
 
-Six built-in themes, each with its own mascot: **Ocean** 🐬, **Midnight** 🦉, **Forest** 🦊, **Cyber** 🤖, **Sunset** 🦅, and **Day** 🐰. Switch anytime from Settings or with the Night/Day mode buttons on Home.
+Six built-in themes: **Ocean** , **Midnight** , **Forest** , **Cyber** , **Sunset** , and **Day** . Switch anytime from Settings or with the Night/Day mode buttons on Home.
 
 ---
 
