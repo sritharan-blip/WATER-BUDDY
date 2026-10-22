@@ -74,7 +74,7 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 | 🏆 Achievements | Badge collection and rarities |
 | 📊 Analytics | Trend and completion charts |
 | 🧠 Insights | Personalized hydration guidance |
-| 📅 Calendar | Monthly goal-completion view |
+| 📅 Calendar | Monthly goal-completion view |-Tap-to-view day details in the calendar
 | ⏰ Reminders | Reminder plan and full tips list |
 | ⚙️ Settings | Profile, goals, theme, backup, resets |
 
@@ -188,7 +188,7 @@ The following features are planned for future updates and are **not available ye
 
 - 🤖 **Gemini-powered HydroCoach chat** *(future enhancement)*: an AI chat coach for personalized hydration advice. For now, HydroCoach shows simple hydration tips.
 - 🎤 **Voice input and voice-powered logging** *(future enhancement)*: expanded voice support for logging drinks hands-free. The current voice note button is only a prototype, so type in the Notes field for now.
-- 📅 Tap-to-view day details in the calendar
+
 
 ---
 
