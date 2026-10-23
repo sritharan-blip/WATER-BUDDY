@@ -40,7 +40,7 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 - **Streak tracking** to keep you consistent
 
 ### Your Buddy
-- An animated water-drop companion whose expression changes with your hydration progress (😢 → 😟 → 🙂 → 😊 → 🤩)
+- An animated water-drop companion whose expression changes with your hydration progress 
 - **Buddy Shop** with wearables (glasses, beanie, scarf, katana, shirt), effects (sparkles), and legendary/mythic skins
 - Equip, unequip, and manage items from **Your Vault**
 - Rename your Buddy
