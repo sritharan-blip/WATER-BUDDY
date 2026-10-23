@@ -68,8 +68,7 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 |------|---------|
 | 🏠 Home | Progress hero, quick add, timeline, Buddy preview, daily tip |
 | 💧 Hydrate | Detailed drink logging with type and notes |
-| 📸 Verify | Image-based container analysis |<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/db631b2e-1312-4730-8d56-18f7f4b99c80" />
-
+| 📸 Verify | Image-based container analysis |
 | 🐣 Buddy | Buddy lounge and customization shop |
 | 🎯 Quests | Daily, weekly, and special missions |
 | 🏆 Achievements | Badge collection and rarities |
