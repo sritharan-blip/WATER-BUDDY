@@ -159,8 +159,8 @@ The app is tested by various family members and Friends, the various inputs give
 ## Credits 
 
 - NAME: SRITHARAN N S 
-- WACP REGISTRATION NUMBER: 1000526
-- SCHOOL NAME: JAIN VIDYALAYA WORLD-IB SCHOOL
+- REGISTRATION NUMBER: 1000526
+- SCHOOL NAME: JAIN VIDYALAYA 
 - MENTOR NAME: SYED ALI BEEMA S
 
 Stay hydrated! 💧
