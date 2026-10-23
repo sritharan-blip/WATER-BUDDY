@@ -203,11 +203,6 @@ Contributions, issues, and feature ideas are welcome.
 4. Push and open a Pull Request
 
 ---
-
-## License
-
-Add a license of your choice (for example, MIT) by placing a `LICENSE` file in the repository root.
-
 ---
 
 Stay hydrated! 💧
