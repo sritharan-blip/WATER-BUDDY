@@ -2,6 +2,7 @@
 
 A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log your drinks, hit your daily goal, grow your water-drop Buddy, earn Aqua Coins, and unlock cosmetics, all while building a healthy hydration habit.
 
+Canva Story Board link: https://canva.link/ws7fkhxm3frq0ex
 ---
 
 ## Table of Contents
@@ -67,9 +68,9 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 |------|---------|
 | 🏠 Home | Progress hero, quick add, timeline, Buddy preview, daily tip |
 | 💧 Hydrate | Detailed drink logging with type and notes |
-| 📸 Verify | Image-based container analysis. Screenshot proof on how it works: |
+| 📸 Verify | Image-based container analysis. Screenshot proof on how it works: https://drive.google.com/file/d/1bkn3AgWDeBdbkNZu5mr8ghy2hdHXZQ1E/view?usp=sharing. The estimated water intake can be logged from the verify page itself|
 | 🐣 Buddy | Buddy lounge and customization shop |
-| 🎯 Quests | Daily, weekly, and special missions https://drive.google.com/file/d/1bkn3AgWDeBdbkNZu5mr8ghy2hdHXZQ1E/view?usp=sharing. The estimated water intake can be logged from the verify page itself |
+| 🎯 Quests | Daily, weekly, and special missions |
 | 🏆 Achievements | Badge collection and rarities |
 | 📊 Analytics | Trend and completion charts |
 | 🧠 Insights | Personalized hydration guidance |
@@ -85,8 +86,6 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 - [Streamlit](https://streamlit.io/): UI framework
 - [Altair](https://altair-viz.github.io/): charts
 - [pandas](https://pandas.pydata.org/): data handling
-- [Pillow](https://python-pillow.org/): image handling
-
 ---
 
 
