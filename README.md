@@ -67,9 +67,9 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 |------|---------|
 | 🏠 Home | Progress hero, quick add, timeline, Buddy preview, daily tip |
 | 💧 Hydrate | Detailed drink logging with type and notes |
-| 📸 Verify | Image-based container analysis |
+| 📸 Verify | Image-based container analysis. Screenshot proof on how it works: |
 | 🐣 Buddy | Buddy lounge and customization shop |
-| 🎯 Quests | Daily, weekly, and special missions |
+| 🎯 Quests | Daily, weekly, and special missions https://drive.google.com/file/d/1bkn3AgWDeBdbkNZu5mr8ghy2hdHXZQ1E/view?usp=sharing. The estimated water intake can be logged from the verify page itself |
 | 🏆 Achievements | Badge collection and rarities |
 | 📊 Analytics | Trend and completion charts |
 | 🧠 Insights | Personalized hydration guidance |
@@ -153,16 +153,14 @@ The following features are planned for future updates and are **not available ye
 
 ---
 
-## Contributing
+## Testing 
+The app is tested by various family members and Friends, the various inputs given by them have been changed accordingly in the app and saved.
 
-Contributions, issues, and feature ideas are welcome.
+## Credits 
 
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push and open a Pull Request
-
----
----
+NAME: SRITHARAN N S 
+WACP REGISTRATION NUMBER: 1000526
+SCHOOL NAME: JAIN VIDYALAYA WORLD-IB SCHOOL
+MENTOR NAME: SYED ALI BEEMA S
 
 Stay hydrated! 💧
