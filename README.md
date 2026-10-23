@@ -2,6 +2,7 @@
 
 A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log your drinks, hit your daily goal, grow your water-drop Buddy, earn Aqua Coins, and unlock cosmetics, all while building a healthy hydration habit.
 
+StreamLit demo Link: waterbuddy-sritharan.streamlit.app
 Canva Story Board link: https://canva.link/ws7fkhxm3frq0ex
 ---
 
