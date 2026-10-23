@@ -9,7 +9,6 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 - [Features](#features)
 - [Screens at a Glance](#screens-at-a-glance)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Data & Privacy](#data--privacy)
@@ -90,44 +89,6 @@ A gamified hydration tracker built with [Streamlit](https://streamlit.io/). Log 
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Python 3.10 or newer
-- `pip`
-
-### Windows (PowerShell)
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-streamlit run waterbuddy.py
-```
-
-### macOS / Linux
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run waterbuddy.py
-```
-
-Then open <http://localhost:8501> in your browser.
-
-### One-click launchers (Windows)
-
-After creating the `.venv` as above, you can start the app with either:
-
-- `run_waterbuddy.bat`: starts Streamlit and opens your browser automatically
-- `run_waterbuddy.ps1`: starts Streamlit from PowerShell
-
-### First run
-
-1. Create an account on the **Create account** tab (username ≥ 3 characters, password ≥ 8 characters).
-2. Complete onboarding with your name, age, weight, activity, occupation, and climate, or skip and adjust later in Settings.
-3. Start logging drinks!
 
 ---
 
